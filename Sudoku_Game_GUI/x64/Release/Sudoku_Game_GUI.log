@@ -1,0 +1,73 @@
+﻿  Suduko.cpp
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(701,21): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(702,21): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(982,107): warning C4244: 'argument': conversion from 'float' to 'const size_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(982,126): warning C4244: 'argument': conversion from 'float' to 'std::array<num_t,9>::size_type', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(993,98): warning C4244: 'argument': conversion from 'float' to 'const size_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(993,117): warning C4244: 'argument': conversion from 'float' to 'std::array<num_t,9>::size_type', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1044,22): warning C4244: '=': conversion from 'const size_t' to 'float', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1045,22): warning C4244: '=': conversion from 'const size_t' to 'float', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1057,15): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1058,15): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1125,70): warning C4244: 'argument': conversion from 'float' to 'const size_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1125,89): warning C4244: 'argument': conversion from 'float' to 'std::array<std::vector<num_t,std::allocator<num_t>>,9>::size_type', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1126,50): warning C4244: 'argument': conversion from 'float' to 'const size_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1126,69): warning C4244: 'argument': conversion from 'float' to 'std::array<num_t,9>::size_type', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1134,41): warning C4244: 'argument': conversion from 'float' to 'const size_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1134,60): warning C4244: 'argument': conversion from 'float' to 'std::array<num_t,9>::size_type', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1137,53): warning C4838: conversion from 'float' to 'uint8_t' requires a narrowing conversion
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1137,53): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1137,69): warning C4838: conversion from 'float' to 'uint8_t' requires a narrowing conversion
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1137,69): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1137,74): warning C4838: conversion from 'num_t' to 'uint8_t' requires a narrowing conversion
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1137,74): warning C4244: 'initializing': conversion from 'num_t' to 'uint8_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1148,58): warning C4244: 'argument': conversion from 'float' to 'const size_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1148,77): warning C4244: 'argument': conversion from 'float' to 'std::array<num_t,9>::size_type', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1149,60): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1149,44): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1172,51): warning C4838: conversion from 'float' to 'uint8_t' requires a narrowing conversion
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1172,51): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1172,67): warning C4838: conversion from 'float' to 'uint8_t' requires a narrowing conversion
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1172,67): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1174,34): warning C4244: '=': conversion from 'unsigned short' to 'uint8_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1198,52): warning C4838: conversion from 'float' to 'uint8_t' requires a narrowing conversion
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1198,52): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1198,68): warning C4838: conversion from 'float' to 'uint8_t' requires a narrowing conversion
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1198,68): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1198,92): warning C4838: conversion from '_Ty' to 'uint8_t' requires a narrowing conversion
+          with
+          [
+              _Ty=num_t
+          ]
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1198,92): warning C4244: 'initializing': conversion from '_Ty' to 'uint8_t', possible loss of data
+          with
+          [
+              _Ty=num_t
+          ]
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1210,51): warning C4838: conversion from 'float' to 'uint8_t' requires a narrowing conversion
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1210,51): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1210,67): warning C4838: conversion from 'float' to 'uint8_t' requires a narrowing conversion
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1210,67): warning C4244: 'initializing': conversion from 'float' to 'uint8_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1210,72): warning C4838: conversion from 'num_t' to 'uint8_t' requires a narrowing conversion
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1210,72): warning C4244: 'initializing': conversion from 'num_t' to 'uint8_t', possible loss of data
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1318,44): warning C4244: '=': conversion from '_Ty' to 'uint8_t', possible loss of data
+          with
+          [
+              _Ty=num_t
+          ]
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1319,49): warning C4244: '=': conversion from '_Ty' to 'uint8_t', possible loss of data
+          with
+          [
+              _Ty=num_t
+          ]
+F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\Sudoku_Game_GUI\Sudoku\Suduko.cpp(1322,61): warning C4244: '=': conversion from '_Ty' to 'uint8_t', possible loss of data
+          with
+          [
+              _Ty=num_t
+          ]
+  Generating code
+  2 of 2676 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    32 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sudoku_Game_GUI.vcxproj -> F:\Miscellaneous\VS_Projects\Sudoku_Game_GUI\x64\Release\Sudoku_Game_GUI.exe
